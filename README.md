@@ -6,4 +6,5 @@ This repository contains essential C++ programs that provide a comprehensive und
 - Optimization techniques for efficient looping
 - Hands-on examples to reinforce concepts
 
-Perfect for beginners and advanced learners alike! Start coding, experimenting, and mastering loops today. 💡🔥
+Perfect for beginners and advanced learners alike! Start coding, experimenting, and mastering loops today. 🔥
+Note : A PDF file is attached with it that has all info.. about programs! 
